@@ -1,6 +1,6 @@
 {
   "name": "sketch-picsum",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Picsum plugin for Sketch",
   "engines": {
     "sketch": ">=3.0"
